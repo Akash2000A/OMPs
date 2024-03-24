@@ -24,7 +24,7 @@ not only demonstrate that the QTY code serves as a straightforward tool for desi
 water-soluble membrane proteins across various biological contexts, but it may also
 stimulate experiments to validate our structural bioinformatic studies.
 
-#Structural bioinformatics of bacterial integral membrane enzymes and their AlphaFold2 predicted water-soluble QTY variants
+# Structural bioinformatics of bacterial integral membrane enzymes and their AlphaFold2 predicted water-soluble QTY variants
 Integral Membrane enzymes (IMPs) are proteins that are essential for cells to function properly.
 They are embedded in the membrane that surrounds cells and allow important processes to happen [48].
 However, studying these proteins has been difficult because they don't dissolve well in water and tend to aggregate together when removed from the membrane. 
