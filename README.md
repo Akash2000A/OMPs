@@ -23,3 +23,13 @@ utility of the QTY code for investigating beta-barrel membrane enzymes. Our resu
 not only demonstrate that the QTY code serves as a straightforward tool for designing
 water-soluble membrane proteins across various biological contexts, but it may also
 stimulate experiments to validate our structural bioinformatic studies.
+
+#Structural bioinformatics of bacterial integral membrane enzymes and their AlphaFold2 predicted water-soluble QTY variants
+Integral Membrane enzymes (IMPs) are proteins that are essential for cells to function properly.
+They are embedded in the membrane that surrounds cells and allow important processes to happen [48].
+However, studying these proteins has been difficult because they don't dissolve well in water and tend to aggregate together when removed from the membrane. 
+In this work, we look at seven membrane enzyme proteins that are "alpha helix" shape. 
+We use highly accurate computer predictions of their 3D structures from a program called AlphaFold2. 
+Previously, we developed a code called QTY that makes alpha-helix, barrel, and antibody proteins more water-soluble by replacing out some water-insoluble amino acids (leucine, isoleucine, valine and phenylalanine) for water-soluble ones like (glutamine, threonine, and tyrosine). 
+We found that even with over 41% of the amino acids swapped using the QTY code, the predicted 3D structures of the water-soluble variants are extremely similar to the original membrane versions, with very small deviations. We also analyse how the surfaces of these proteins become more water-friendly and where patches of water-insoluble  areas remain.
+Our study shows that water-soluble QTY variants and membrane-bound alpha-helical enzyme proteins have comparable structures, proving the QTY code works for making water-soluble variants of these proteins. Not only does this provide a simple way to study membrane proteins in water, but it encourages further experiments to test our computer predictions in the lab.
